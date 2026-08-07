@@ -8,6 +8,11 @@
  <p> <sub>allegorical and fabled cat wolf thing</sub></p>
 </body>
 </html>
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=pink%E2%80%A2crayon%E2%80%A2cat&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=bababa&bar_color_cover=true">
+  </a>
+</p>
  
 
 <!--
