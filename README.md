@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+<a href="https://lookatthisgraph.straw.page">
+  <img height="50" src="https://i.postimg.cc/QCXKP15F/look-at-this-graphg.jpg"/>
+</a>
 <!--
 **defosukewolf/defosukewolf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
