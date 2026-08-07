@@ -4,8 +4,8 @@
 </a>
 <html>
 <body> 
- <p>the link in my profile is not a graph (apolocheese to all graph lovers)</p>
-   <p>an allegorical and fabled cat wolf creature</p>
+ <p><sub>the link in my profile is not a graph (apolocheese to all graph lovers)</sub></p>
+   <p><sub>an allegorical and fabled cat wolf creature</sub></p>
 </body>
 </html>
 <p align="center">
