@@ -1,7 +1,15 @@
- hi
-<a href="https://lookatthisgraph.straw.page">
+
+<a> 
   <img height="100" src="https://i.postimg.cc/QCXKP15F/look-at-this-graphg.jpg"/>
 </a>
+<html>
+<body> 
+ <p> <sub>the link in my profile is not a graph (apolocheese to all graph lovers)</sub></p>
+ <p> <sub>allegorical and fabled cat wolf thing</sub></p>
+</body>
+</html>
+ 
+
 <!--
 **defosukewolf/defosukewolf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
