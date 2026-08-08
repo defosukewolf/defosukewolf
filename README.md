@@ -16,7 +16,6 @@
 <p align="center">
 <a>
   <img height="60" src="https://i.postimg.cc/XJN5KSnN/robotttt.gif"/>
-   <img height="40" src="https://i.postimg.cc/RFpsrTF1/chungkee-plush.jpg"/>
    <img height="40" src=https://i.postimg.cc/yN8pfNX0/pikachuuuu.gif"/>
   <img height="40" src="https://i.postimg.cc/BnFdxRvd/monssterrr.gif"/>
   <img height="50" src="https://i.postimg.cc/C5kJXpfp/tumblr-dd3067be55c0925719e9196879e4221e-956a19f8-250.png"/>
