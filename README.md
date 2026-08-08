@@ -5,7 +5,7 @@
 <html>
 <body> 
  <p><sub>the link in my profile is not a graph (apolocheese to all graph lovers)</sub></p>
-   <p><sub>an allegorical and fabled cat wolf creature</sub></p>
+   <p><sub>an allegorical cat wolf creature</sub></p>
 </body>
 </html>
 <p align="center">
@@ -19,7 +19,8 @@
    <img height="40" src=https://i.postimg.cc/yN8pfNX0/pikachuuuu.gif"/>
   <img height="40" src="https://i.postimg.cc/BnFdxRvd/monssterrr.gif"/>
   <img height="50" src="https://i.postimg.cc/C5kJXpfp/tumblr-dd3067be55c0925719e9196879e4221e-956a19f8-250.png"/>
-  <img height="50" src="https://i.postimg.cc/T3YhHjZF/tumblr-198452134799af8d1993438a86fd5ca9-58b8ee1f-250.png"/> 
+  <img height="50" src="https://i.postimg.cc/T3YhHjZF/tumblr-198452134799af8d1993438a86fd5ca9-58b8ee1f-250.png"/>
+  <img height="30" src="https://i.postimg.cc/HsCtjLNF/ehhhhhhhh.gif"/>
   <img height="40" src="https://i.postimg.cc/05wWXFmZ/dinoe.jpg"/> 
 </a>
  
