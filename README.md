@@ -21,7 +21,7 @@
   <img height="40" src="https://i.postimg.cc/BnFdxRvd/monssterrr.gif"/>
   <img height="50" src="https://i.postimg.cc/C5kJXpfp/tumblr-dd3067be55c0925719e9196879e4221e-956a19f8-250.png"/>
   <img height="50" src="https://i.postimg.cc/T3YhHjZF/tumblr-198452134799af8d1993438a86fd5ca9-58b8ee1f-250.png"/> 
-  <img height="50" src="https://i.postimg.cc/9fkbJYQ6/fantage-random-person.jpg"/> 
+  <img height="40" src="https://i.postimg.cc/9fkbJYQ6/fantage-random-person.jpg"/> 
 </a>
  
 
