@@ -8,12 +8,12 @@
    <p><sub>an allegorical and fabled cat wolf creature</sub></p>
 </body>
 </html>
-<p align="left">
+<p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=pink%E2%80%A2crayon%E2%80%A2cat&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=bababa&bar_color_cover=true">
   </a>
 </p>
-<p align="left">
+<p align="center">
 <a>
   <img height="60" src="https://i.postimg.cc/XJN5KSnN/robotttt.gif"/>
    <img height="40" src="https://i.postimg.cc/RFpsrTF1/chungkee-plush.jpg"/>
