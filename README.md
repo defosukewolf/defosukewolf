@@ -1,4 +1,4 @@
-##  ᶻ 𝗓 𐰁
+##  (ᴗ_ᴗ)ᶻ𝗓𐰁*☁︎
 <a> 
   <img height="100" src="https://i.postimg.cc/QCXKP15F/look-at-this-graphg.jpg"/>
 </a>
