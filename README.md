@@ -4,7 +4,7 @@
 </a>
 <html>
 <body> 
-   <p><sub>the link in my profile is not a graph (apolocheese to all graph lovers)</sub></p>
+   <p><sub>the link in my profile is not a graph (apologies to all graph lovers)</sub></p>
   <p><sub>ᶻ  𝗓  𐰁 . . .</sub></p>
 </body>
 </html>
