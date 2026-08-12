@@ -4,9 +4,8 @@
 </a>
 <html>
 <body> 
- <p><sub>rare fantage screenshot thing above. i kind of miss that game</sub></p>
-   <p><sub>also, the link in my profile is not a graph (apolocheese to all graph lovers)</sub></p>
-  <p><sub>ᶻ  𝗓  𐰁</sub></p>
+   <p><sub>the link in my profile is not a graph (apolocheese to all graph lovers)</sub></p>
+  <p><sub>ᶻ  𝗓  𐰁 . . .</sub></p>
 </body>
 </html>
 <p align="center">
