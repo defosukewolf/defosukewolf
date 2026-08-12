@@ -1,12 +1,12 @@
 
 <a> 
-  <img height="100" src="https://i.postimg.cc/26hv5xCX/fantage-random-person.jpg"/>
+  <img height="100" src="https://i.postimg.cc/Y9219WyR/ynoproject-2kki-Giant-Desktop-screenshot-2025-10-19-00h44m46s.png"/>
 </a>
 <html>
 <body> 
    <p><sub>the link in my profile is not a graph (apologies to all graph lovers)</sub></p>
-  <p><sub>ᶻ  𝗓  𐰁 . . .</sub></p>
-</body>
+  <p><sub>ᶻ   𝗓   𐰁 . . . </sub></p>
+</body> 
 </html>
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
