@@ -5,7 +5,7 @@
 <html>
 <body> 
  <p><sub>the link in my profile is not a graph (apolocheese to all graph lovers)</sub></p>
-   <p><sub>the fabled and mythical cat wolf creature</sub></p>
+   <p><sub>fabled and mythical cat wolf creature</sub></p>
 </body>
 </html>
 <p align="center">
