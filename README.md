@@ -1,6 +1,6 @@
 ##  ᶻ𝗓𐰁*☁︎.+
 <a> 
-  <img height="100" src="https://i.postimg.cc/QCXKP15F/look-at-this-graphg.jpg"/>
+  <img height="100" src="https://i.postimg.cc/26hv5xCX/fantage-random-person.jpg"/>
 </a>
 <html>
 <body> 
