@@ -1,4 +1,4 @@
-##  ᶻ𝗓𐰁*☁︎.+
+##  ᶻ𝗓𐰁
 <a> 
   <img height="100" src="https://i.postimg.cc/26hv5xCX/fantage-random-person.jpg"/>
 </a>
