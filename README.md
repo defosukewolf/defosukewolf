@@ -4,7 +4,7 @@
 </a>
 <html>
 <body> 
- <p><sub>does anyone know fantage? i kind of miss that game</sub></p>
+ <p><sub>rare fantage screenshot thing above. i kind of miss that game</sub></p>
    <p><sub>also, the link in my profile is not a graph (apolocheese to all graph lovers)</sub></p>
   <p><sub></sub></p>
 </body>
