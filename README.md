@@ -1,10 +1,10 @@
 
 <a> 
-  <img height="150" src="https://i.postimg.cc/B6FQrxFk/afref-winters-will-(snou)-copy.png"/>
+  <img height="150" src="https://i.postimg.cc/vmM1L26c/Screenshot-2026-08-12-at-11-47-29-PM.pngg"/>
 </a>
 <html>
 <body> 
-   <p><sub>wolf cat cat wolf </sub></p>
+   <p><sub>a something something something</sub></p>
   <p>ᶻ   𝗓   𐰁  </p>
 </body> 
 </html>
