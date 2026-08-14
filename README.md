@@ -1,6 +1,6 @@
 <p align="center"/>
 <a> 
-  <img height="150" src="https://i.postimg.cc/kgcJyVgm/thing-is-drew-one-day.jpg"/>
+  <img height="140" src="https://i.postimg.cc/kgcJyVgm/thing-is-drew-one-day.jpg"/>
 </a>
 <html>
 <body>
