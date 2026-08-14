@@ -1,10 +1,10 @@
-<p align="left"/>
+<p align="center"/>
 <a> 
   <img height="140" src="https://i.postimg.cc/kgcJyVgm/thing-is-drew-one-day.jpg"/>
 </a>
 <html>
 <body>
-  <p align="left"
+  <p align="center"
   <p style="line-height:1.5">
     <span style="font-size:12">something / a wolf cat</span><br />
     <span style="font-size:12">ᶻ   𝗓   𐰁 </span>
