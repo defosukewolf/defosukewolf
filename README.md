@@ -1,10 +1,10 @@
 
 <a> 
-  <img height="150" src="https://i.postimg.cc/j5WfFDvD/export202601151511056460-copy.png"/>
+  <img height="150" src="https://i.postimg.cc/vmM1L26c/Screenshot-2026-08-12-at-11-47-29-PM.png"/>
 </a>
 <html>
 <body> 
-   <p><sub> a something something something something something</sub></p>
+   <p><sub> i can't decide what to put here</sub></p>
   <p>ᶻ   𝗓   𐰁  </p>
 </body> 
 </html>
