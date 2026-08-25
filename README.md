@@ -7,7 +7,6 @@
   <p align="left"
   <p style="line-height:1.5">
     <span style="font-size:12"><sub>something somewhere | he/its or its/he</sub></span><br />
-    <span style="font-size:12"><sub> ᶻ   𝗓   𐰁 </sub></span>
 </body> 
 </html>
 
@@ -23,6 +22,7 @@
   <img height="50" src="https://i.postimg.cc/C5kJXpfp/tumblr-dd3067be55c0925719e9196879e4221e-956a19f8-250.png"/>
   <img height="50" src="https://i.postimg.cc/T3YhHjZF/tumblr-198452134799af8d1993438a86fd5ca9-58b8ee1f-250.png"/>
   <img height="30" src="https://i.postimg.cc/HsCtjLNF/ehhhhhhhh.gif"/>
+  <span style="font-size:12"><sub> ᶻ   𝗓   𐰁 </sub></span>
   <img height="40" src="https://i.postimg.cc/05wWXFmZ/dinoe.jpg"/> 
 </a>
  
