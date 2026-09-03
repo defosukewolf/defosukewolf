@@ -23,6 +23,7 @@
   <img height="30" src="https://i.postimg.cc/VNRLySx3/cat-emote.gif"/>
   <img height="50" src="https://i.postimg.cc/BQKJN1bk/lfrog.jpg"/>
   <span style="font-size:12"><sub>ᶻ 𝗓 𐰁 </sub></span>
+   <img height="50" src="https://i.postimg.cc/6QNqCfhz/cloudy.gif"/>
 </a>
  
 
