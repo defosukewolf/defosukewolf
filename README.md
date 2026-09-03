@@ -20,7 +20,7 @@
   <img height="60" src="https://i.postimg.cc/XJN5KSnN/robotttt.gif"/>
   <img height="50" src="https://i.postimg.cc/T3YhHjZF/tumblr-198452134799af8d1993438a86fd5ca9-58b8ee1f-250.png"/>
   <img height="30" src="https://i.postimg.cc/VNRLySx3/cat-emote.gif"/>
-  <img height="40" src="https://i.postimg.cc/fRSwb26K/bluedino.gif"/>
+  <img height="40" src="https://i.postimg.cc/zvxNjjDj/colour-dino.gif"/>
   <span style="font-size:12"><sub>ᶻ 𝗓 𐰁 </sub></span>
   <img height="40" src="https://i.postimg.cc/rF0mdw4R/cattt-emote.gif"/>
 </a>
