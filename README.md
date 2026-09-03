@@ -1,6 +1,6 @@
 <p align="left"/>
 <a> 
-  <img height="140" src="https://i.postimg.cc/3rbgmz0j/20250423-110540-copy-2.jpg"/>
+  <img height="140" src="https://i.postimg.cc/YCL8vMXY/20250423-110540-copy.jpg"/>
 </a>
 <html>
 <body>
@@ -23,7 +23,7 @@
   <img height="30" src="https://i.postimg.cc/VNRLySx3/cat-emote.gif"/>
   <img height="50" src="https://i.postimg.cc/BQKJN1bk/lfrog.jpg"/>
   <span style="font-size:12"><sub>ᶻ 𝗓 𐰁 </sub></span>
-   <img height="50" src="https://i.postimg.cc/6QNqCfhz/cloudy.gif"/>
+   <img height="40" src="https://i.postimg.cc/6QNqCfhz/cloudy.gif"/>
 </a>
  
 
