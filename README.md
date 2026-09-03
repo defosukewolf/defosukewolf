@@ -22,7 +22,7 @@
   <img height="30" src="https://i.postimg.cc/VNRLySx3/cat-emote.gif"/>
   <img height="40" src="https://i.postimg.cc/fRSwb26K/bluedino.gif"/>
   <span style="font-size:12"><sub>ᶻ 𝗓 𐰁 </sub></span>
-  <img height="40" src="https://i.postimg.cc/mg9tngZp/green-cate-emote.gif"/>
+  <img height="40" src="https://i.postimg.cc/rF0mdw4R/cattt-emote.gif"/>
 </a>
  
 
