@@ -17,7 +17,6 @@
 </p>
 <p align="center">
 <a>
-   <img height="40" src="https://i.postimg.cc/brMNrxJ0/monssterrr.gif"/>
   <img height="30" src="https://i.postimg.cc/VNRLySx3/cat-emote.gif"/>
   <img height="30" src="https://i.postimg.cc/mg9tngZp/green-cate-emote.gif"/>
 </a>
