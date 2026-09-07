@@ -6,21 +6,17 @@
 <body>
   <p align="left"
   <p style="line-height:1.5">
-    <span style="font-size:12"><sub>something somewhere | he </sub></span><br />
+    <img height="30" src="https://i.postimg.cc/mg9tngZp/green-cate-emote.gif"/> 
+      <span style="font-size:12">something somewhere | he </span><br />
 </body> 
 </html>
-
-<p align="center">
+<details>
+    <summary>music</summary>
+    <p align="left">
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=pink%E2%80%A2crayon%E2%80%A2cat&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=bababa&bar_color_cover=true">
   </a>
-</p>
-<p align="center">
-<a>
-    <img height="30" src="https://i.postimg.cc/mg9tngZp/green-cate-emote.gif"/>
-    <img height="30" src="https://i.postimg.cc/mg9tngZp/green-cate-emote.gif"/>
-    <img height="30" src="https://i.postimg.cc/mg9tngZp/green-cate-emote.gif"/>
-    </a>
+</details>
  
 
 <!--
