@@ -6,7 +6,7 @@
 <body>
   <p align="left"
   <p style="line-height:1.5">
-      <span style="font-size:12">something somewhere, he/it </span><br />
+      <span style="font-size:12">something somewhere </span><br />
 </body> 
 </html>
 
