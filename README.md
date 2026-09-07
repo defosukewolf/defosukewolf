@@ -1,6 +1,6 @@
 <p align="left"/>
 <a> 
-    <img height="100" src="https://i.postimg.cc/K8CD3GcJ/paperplanepanda.gif"/>
+    <img height="100" src="https://i.postimg.cc/jS5h5Rmv/paperbluestars.gif"/>
 </a>
 <html>
 <body>
