@@ -17,8 +17,10 @@
 </p>
 <p align="center">
 <a>
-  <img height="30" src="https://i.postimg.cc/mg9tngZp/green-cate-emote.gif"/>
-</a>
+  <img height="30" src="https://i.postimg.cc/59DVNrZf/paperclipbearithink.gif"/>
+    <img height="30" src="https://i.postimg.cc/k4D07NsG/cat-emote.gif"/>
+    <img height="30" src="https://i.postimg.cc/mg9tngZp/green-cate-emote.gif"/>
+    </a>
  
 
 <!--
