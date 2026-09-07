@@ -22,7 +22,6 @@
    <img height="40" src="https://i.postimg.cc/brMNrxJ0/monssterrr.gif"/>
   <img height="30" src="https://i.postimg.cc/VNRLySx3/cat-emote.gif"/>
   <img height="40" src="https://i.postimg.cc/wjKVSnVZ/whatever.gif"/>
-   <img height="40" src="https://i.postimg.cc/6QNqCfhz/cloudy.gif"/>
   <img height="30" src="https://i.postimg.cc/mg9tngZp/green-cate-emote.gif"/>
 </a>
  
