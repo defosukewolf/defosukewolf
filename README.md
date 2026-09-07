@@ -1,20 +1,21 @@
-<p align="center"/>
+<p align="left"/>
 <a> 
     <img height="100" src="https://i.postimg.cc/K8CD3GcJ/paperplanepanda.gif"/>
 </a>
 <html>
 <body>
-  <p align="center"
+  <p align="left"
   <p style="line-height:1.5">
       <span style="font-size:12">something somewhere | he </span><br />
 </body> 
 </html>
-    
-<p align="center"/>
-  <img height="30" src="https://i.postimg.cc/mg9tngZp/green-cate-emote.gif"/> </summary>
-    <p align="center">
+
+<details>
+    <summary>music <img height="30" src="https://i.postimg.cc/mg9tngZp/green-cate-emote.gif"/></summary>
+    <p align="left">
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=pink%E2%80%A2crayon%E2%80%A2cat&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=bababa&bar_color_cover=true">
+</details>
 
  
 
