@@ -1,6 +1,6 @@
 <p align="left"/>
 <a> 
-  <img height="140" src="https://i.postimg.cc/Z5r90QhD/thing-is-drew-one-day-copy.jpg"/>
+    <img height="100" src="https://i.postimg.cc/K8CD3GcJ/paperplanepanda.gif"/>
 </a>
 <html>
 <body>
@@ -17,10 +17,8 @@
 </p>
 <p align="center">
 <a>
-  <img height="50" src="https://i.postimg.cc/T3YhHjZF/tumblr-198452134799af8d1993438a86fd5ca9-58b8ee1f-250.png"/>
    <img height="40" src="https://i.postimg.cc/brMNrxJ0/monssterrr.gif"/>
   <img height="30" src="https://i.postimg.cc/VNRLySx3/cat-emote.gif"/>
-  <img height="50" src="https://i.postimg.cc/K8CD3GcJ/paperplanepanda.gif"/>
   <img height="30" src="https://i.postimg.cc/mg9tngZp/green-cate-emote.gif"/>
 </a>
  
