@@ -6,7 +6,7 @@
 <body>
   <p align="left"
   <p style="line-height:1.5">
-      <span style="font-size:12"> </span><br />
+      <span style="font-size:12">current big fan of defosuke utau</span><br />
 </body> 
 </html>
 
