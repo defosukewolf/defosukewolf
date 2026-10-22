@@ -1,12 +1,12 @@
 <p align="left"/>
 <a> 
-    <img height="100" src="https://i.postimg.cc/jS5h5Rmv/paperbluestars.gif"/>
+    <img height="150" src="https://i.postimg.cc/mgT4nshN/Alice-Kuonji-Mahoutsukai-no-Yoru.jpg"/>
 </a>
 <html>
 <body>
   <p align="left"
   <p style="line-height:1.5">
-      <span style="font-size:12">defosuke is pretty cool </span><br />
+      <span style="font-size:12">something, somewhere </span><br />
 </body> 
 </html>
 
