@@ -2,7 +2,7 @@
 <a> 
     <img height="120" src="https://i.postimg.cc/mgT4nshN/Alice-Kuonji-Mahoutsukai-no-Yoru.jpg"/>
       <span style="font-size:12">. * . * </span>
-    <img height="30" src="https://i.postimg.cc/15CHrvZZ/bluebird4.gif"/>
+    <img height="50" src="https://i.postimg.cc/NFLys7Cb/bluebird3.gif"/>
 
 </a>
 <html>
