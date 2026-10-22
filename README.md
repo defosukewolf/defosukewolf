@@ -3,6 +3,8 @@
     <img height="120" src="https://i.postimg.cc/mgT4nshN/Alice-Kuonji-Mahoutsukai-no-Yoru.jpg"/>
       <span style="font-size:12">. * . * </span>
     <img height="50" src="https://i.postimg.cc/NFLys7Cb/bluebird3.gif"/>
+     <img height="30" src="https://i.postimg.cc/d14M8sQs/bluecreature.gif"/>
+        <img height="30" src="https://i.postimg.cc/FFB8mn7D/cattt-emote.gif"/>
 
 </a>
 <html>
@@ -17,9 +19,7 @@
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=pink%E2%80%A2crayon%E2%80%A2cat&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=bababa&bar_color_cover=true">
 <p align="center"
- <img height="30" src="https://i.postimg.cc/d14M8sQs/bluecreature.gif"/>
-        <img height="30" src="https://i.postimg.cc/FFB8mn7D/cattt-emote.gif"/>
-</p>
+
 
  
 
