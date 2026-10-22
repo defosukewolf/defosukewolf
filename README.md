@@ -1,6 +1,8 @@
 <p align="left"/>
 <a> 
     <img height="120" src="https://i.postimg.cc/mgT4nshN/Alice-Kuonji-Mahoutsukai-no-Yoru.jpg"/>
+     <p align="left"
+      <span style="font-size:12">. * . * </span>
     <img height="30" src="https://i.postimg.cc/d14M8sQs/bluecreature.gif"/>
         <img height="30" src="https://i.postimg.cc/FFB8mn7D/cattt-emote.gif"/>
 </a>
