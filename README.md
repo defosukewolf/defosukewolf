@@ -1,7 +1,7 @@
 <p align="left"/>
 <a> 
     <img height="140" src="https://i.postimg.cc/mgT4nshN/Alice-Kuonji-Mahoutsukai-no-Yoru.jpg"/>
-      <span style="font-size:12">. * . * </span>
+      <span style="font-size:12">.  * ❅ </span>
     <img height="50" src="https://i.postimg.cc/d1Cs4Hfp/bluebird5.png"/>
      <img height="30" src="https://i.postimg.cc/d14M8sQs/bluecreature.gif"/>
         <img height="30" src="https://i.postimg.cc/FFB8mn7D/cattt-emote.gif"/>
