@@ -5,6 +5,7 @@
     <img height="40" src="https://i.postimg.cc/d1Cs4Hfp/bluebird5.png"/>
      <img height="30" src="https://i.postimg.cc/d14M8sQs/bluecreature.gif"/>
         <img height="30" src="https://i.postimg.cc/FFB8mn7D/cattt-emote.gif"/>
+        <span style="font-size:12"> they are friends </span>
 
 </a>
 <html>
