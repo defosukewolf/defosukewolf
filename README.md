@@ -1,6 +1,6 @@
 <p align="left"/>
 <a> 
-    <img height="70" src="https://i.postimg.cc/qqqQ0q3H/ploy104-copy.jpg"/>
+    <img height="70" src="https://i.postimg.cc/7LSWQ5g0/aoko-gifff.gif"/>
      <span style="font-size:12"> </span>
         <span style="font-size:12"> </span>
 
