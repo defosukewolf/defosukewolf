@@ -1,7 +1,7 @@
 <p align="left"/>
 <a> 
     <img height="70" src="https://i.postimg.cc/7LSWQ5g0/aoko-gifff.gif"/>
-     <span style="font-size:12">.  * ❅ </span>
+     <span style="font-size:12"> </span>
         <span style="font-size:12"> </span>
 
 </a>
